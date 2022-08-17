@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**reyehan/reyehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Reyhane 
+#### I am a front-end developer
+![I am a front-end developer](https://user-images.githubusercontent.com/92879200/185241564-15965f8e-51f9-49de-b699-2fae35695f47.jpeg))
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:  REACT JS / JS / HTML / CSS / BOOTSTRAP/ REST API / REDUX/ GIT/ SASS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
