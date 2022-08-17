@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi there 👋, my name is Reyhane 
+my name is Reyhane 
 #### I am a front-end developer
 
 
