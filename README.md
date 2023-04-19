@@ -5,7 +5,7 @@ my name is Reyhane
 
 
 
-Skills:  REACT JS / JS / HTML / CSS / BOOTSTRAP/ REST API / REDUX/ GIT/ SASS
+Skills:  REACT JS / JS /vue js/vueify / HTML / CSS / BOOTSTRAP/ REST API / REDUX/ GIT/ SASS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reyhane)](https://github.com/anuraghazra/github-readme-stats)
 
